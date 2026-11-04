@@ -1,10 +1,17 @@
 {
-  "seq": 81,
   "title": "Education Agent CRM and Follow-Up Workflow",
+  "old_slug": "education-agent-crm-and-follow-up-workflow",
   "slug": "education-agent-crm-and-follow-up-workflow",
   "folder": "Education_Agent_Crm_And_Follow_Up_Workflow",
-  "kind": "app",
-  "body_words": 238,
+  "kind": "product",
+  "body_words": 298,
+  "source": "MICT Academic",
   "project_id": "Academic Project 41",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
